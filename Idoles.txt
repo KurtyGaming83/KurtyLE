@@ -1,0 +1,139 @@
+Not Found / To fix : Mage Large Idol 1x3 : increased cast speed while you have Lightning aegis + increased Lightning damage/increased minion Lightning damage
+
+Acolyte Ornate Idol 4x1 : increased duration for profane veil + necrotic resist
+Primalist Ornate Idol 4x1 : Vitality + Increased Aspect of the Viper Effect
+Primalist Ornate Idol 4x1 : chance on hit to summon a thorn totem + increased cold damage per active totem
+Primalist Ornate Idol 4x1 : critical strike chance for totems + increased minion critical strike chance
+Sentinel Ornate Idol 4x1 : increased echo damage when a skill is echoed + increased void damage/minion void damage
+Sentinel Ornate Idol 4x1 : critical strike multiplier with judgement/critical strike multiplier with rive + chance to shred armour on hit
+Mage Ornate Idol 4x1 : Melee Elemental Damage + Melee Cold Damage
+Mage Ornate Idol 4x1 : Increased Cooldown Recovery Speed for Surge + Mana Spent Gained as Ward
+Mage Ornate Idol 4x1 : mana efficiency with frost claw/elemental penetration with frost claw + increased armor/increased mana
+Mage Ornate Idol 4x1 : elemental increased area for area skills + chance to Apply a spark charge on melee hit
+Mage Ornate Idol 4x1 : elemental increased area for area skills +  increased armor/increased mana
+Rogue Ornate Idol 4x1 : increased damage per Arrow with multishot + increased bow critical strike chance
+Primalist Grand Idol 3x1 : melee critical strike multiplier while transformed + increased aspect of the boar effect
+Primalist Grand Idol 3x1 : increased spell damage while transformed + increased cold damage/increased Lightning damage
+Primalist Grand Idol 3x1 : chance to poison on hit + poison resist
+Primalist Grand Idol 3x1 : increased health regen + physical resist
+Primalist Grand Idol 3x1 : increased Health Regeneration + Health Regen While Transformed
+Primalist Grand Idol 3x1 : increased health regen + increased spell damage if you have an active totem
+Primalist Grand Idol 3x1 : chance to gain haste for 3 seconds when you summon a totem + minion critical strike chance
+Primalist Grand Idol 3x1 : chance to gain haste for 3 seconds when you summon a totem + physical resist
+Primalist Grand Idol 3x1 : chance to gain haste for 3 seconds when you summon a totem + minion melee attack speed
+Acolyte Grand Idol 3x1 : Armor granted by Bone Armor + Increased Cooldown Recovery Speed With Transplant
+Acolyte Grand Idol 3x1 : curse spell damage + necrotic resist
+Acolyte Grand Idol 3x1 : chance to Apply damned on hit + chance to bleed on physical spell hit
+Acolyte Grand Idol 3x1 : chance to Apply damned on hit + Ward per Second while channeling Ghostflame
+Acolyte Grand Idol 3x1 : chance to Apply damned on hit + physical resist
+Sentinel Grand Idol 3x1 : of cold damage taken as physical + chance to shred armour on hit
+Sentinel Grand Idol 3x1 : increased warpath area + increased melee void damage
+Sentinel Grand Idol 3x1 : increased warpath area + increased armor
+Sentinel Grand Idol 3x1 : increased warpath area + chance to shred armour on hit
+Rogue Grand Idol 3x1 : Critical Strike Multiplier while Dual Wielding + Increased Damage while wielding a Sword
+Mage Grand Idol 3x1 : increased frostbite duration + increased armor/increased mana
+Mage Grand Idol 3x1 : increased Lightning critical strike chance + chance to Apply a spark charge on melee hit
+Mage Grand Idol 3x1 : Critical Strike Chance With Lightning Skills + Mana Spent Gained as Ward
+Mage Grand Idol 3x1 : Critical Strike Chance With Lightning Skills + increased armor/increased mana
+Mage Grand Idol 3x1 : mana + increased armor/increased mana
+Mage Grand Idol 3x1 : mana + melee cold damage
+Mage Grand Idol 3x1 : mana + increased fire damage. this effect is doubled if you have 300 or more maximum mana
+Mage Grand Idol 3x1 : mana + chance to Apply a spark charge on melee hit
+Mage Grand Idol 3x1 : mana + Ward Granted When Casting Flame Ward
+Primalist Adorned Idol 2x2 : chance to create an earthquake/aftershock at a nearby enemy on melee attack + increased health regen while transformed
+Acolyte Adorned Idol 2x2 : chance for summon wraith to summon a flame wraith instead + chance to marked for death on minion hit
+Acolyte Adorned Idol 2x2 : chance for summon wraith to summon a flame wraith instead + increased critical strike chance/increased minion critical strike chance
+Sentinel Adorned Idol 2x2 : chance to cast smite on hit with throwing attacks + block effectiveness
+Sentinel Adorned Idol 2x2 : chance to cast smite on hit with throwing attacks + chance to shred armour on throwing hit
+Sentinel Adorned Idol 2x2 : increased Healing effectiveness + block effectiveness
+Sentinel Adorned Idol 2x2 : increased Healing effectiveness + health
+Mage Adorned Idol 2x2 : Chance to cast Fire Aura on Crit + increased Lightning damage. this effect is doubled if you have 300 or more maximum mana
+Mage Adorned Idol 2x2 : increased stun duration + chance to gain lighting aegis when hit
+Mage Adorned Idol 2x2 : increased Lightning damage while you have Lightning aegis + increased Lightning damage. this effect is doubled if you have 300 or more maximum mana
+Mage Adorned Idol 2x2 : ward retention + increased fire damage.This effect is doubled if you have 300 or more Maximum mana
+Mage Adorned Idol 2x2 : ward retention + chance to gain Lightning aegis when hit
+Mage Adorned Idol 2x2 : Ward Retention + Cold Resistance
+Rogue Adorned Idol 2x2 : critical strike multiplier/minion critical strike multiplier + poison resist 
+Rogue Adorned Idol 2x2 : critical strike multiplier/minion critical strike multiplier + increased shred armour effect
+Sentinel Huge Idol 1x4 : increased critical strike chance + block effectiveness
+Sentinel Huge Idol 1x4 : seconds to sigils of hope duration + block effectiveness
+Rogue Huge Idol 1x4 : Increased damage per active Shadow with Shadow Cascade + Increased Damage of Attacks use by Shadows
+Mage Huge Idol 1x4 : Seconds of Stun Immunity after using Teleport + Chance to Gain 20 Ward on Melee Hit
+Mage Huge Idol 1x4 : Critical Strike Chance + Chance to Gain 20 Ward on Melee Hit
+Mage Huge Idol 1x4 : Stun Avoidance + Chance to Gain 20 Ward on Melee Hit
+Mage Large Idol 1x3 : Cold Penetration with Frostbite + chance to gain Lightning aegis when hit
+Mage Large Idol 1x3 : ward on potion use + Chance to Gain 20 Ward on Melee Hit
+Mage Large Idol 1x3 : ward on potion use + chance to gain Lightning aegis when hit
+Primalist Large Idol 1x3 : Increased Aspect of the Boar Duration + Spell Damage For You And Your Minions
+Primalist Large Idol 1x3 : increased health + totem damage
+Primalist Large Idol 1x3 : increased health + elemental resist while transformed
+Primalist Large Idol 1x3 : increased health + minion dodge rating
+Primalist Large Idol 1x3 : increased health + cold resist
+Primalist Large Idol 1x3 : increased health + elemental resist
+Primalist Large Idol 1x3 : increased health + increased aspect of the shark effect
+Primalist Large Idol 1x3 : increased health + critical strike avoidance/minion critical strike avoidance
+Primalist Large Idol 1x3 : increased health + Damage Over Time For You And Your Minions
+Primalist Large Idol 1x3 : increased health + Spell Damage For You And Your Minions
+Sentinel Large Idol 1x3 : increased damage with vengeance/increased damage with smite + block effectiveness
+Sentinel Large Idol 1x3 : chance to ignite on hit + block effectiveness
+Sentinel Large Idol 1x3 : throwing critical strike multiplier + chance to shred armour on throwing hit
+Sentinel Large Idol 1x3 : throwing critical strike multiplier + block effectiveness
+Sentinel Large Idol 1x3 : increased bleed duration + increased physical damage over time
+Sentinel Large Idol 1x3 : increased bleed duration + block effectiveness
+Acolyte Large Idol 1x3 : Mana Efficiency with Ghostflame + Physical Spell Critical Strike Chance
+Acolyte Large Idol 1x3 : increased health + chance to marked for death on minion hit
+Acolyte Large Idol 1x3 : increased health + health
+Acolyte Large Idol 1x3 : increased health + chance to fear on hit
+Acolyte Large Idol 1x3 : increased health + increased critical strike chance/increased minion critical strike chance
+Rogue Large Idol 1x3 : increased health + elemental resist
+Rogue Large Idol 1x3 : increased health + increased shred armour duration
+Rogue Large Idol 1x3 : increased health + increased damage while wielding a bow
+Rogue Large Idol 1x3 : increased health + Increased Damage of Attacks use by Shadows
+Rogue Large Idol 1x3 : increased hail of arrows duration + increased bow damage
+Rogue Large Idol 1x3 : increased hail of arrows duration + increased damage while wielding a bow
+Rogue Large Idol 1x3 : physical penetration with shadow daggers +  increased shred armour duration
+Rogue Large Idol 1x3 : physical penetration with shadow daggers +  elemental resist
+Rogue Large Idol 1x3 : physical penetration with shadow daggers + Increased Damage while wielding a Bow 
+Humble Idol 2x1 : vitality + necrotic resist
+Humble Idol 2x1 : vitality + physical resist
+Humble Idol 2x1 : vitality + increased void damage/minion void damage
+Humble Idol 2x1 : vitality + void resist
+Humble Idol 2x1 : vitality + poison resist
+Humble Idol 2x1 : Increased Stun Duration + Necrotic Resistance
+Stout Idol 1x2 : increased health + health
+Stout Idol 1x2 : increased health + elemental resist
+Stout Idol 1x2 : increased health + cold resist
+Stout Idol 1x2 : increased health + lightning resist
+Stout Idol 1x2 : increased health + fire resist
+Stout Idol 1x2 : Critical Strike Chance + Cold Resistance
+Stout Idol 1x2 : Critical Strike Chance + elemental resist
+Small Idol 1x1 : stun avoidance + cold resist
+Small Idol 1x1 : stun avoidance + elem resist
+Small Idol 1x1 : ward retention + cold resist
+Small Idol 1x1 : ward retention + elem resist
+Small Idol 1x1 : mana + fire resist
+Small Idol 1x1 : mana + cold resist
+Small Idol 1x1 : mana + eleme resist
+Small Idol 1x1 : dodge rating + void resist
+Small Idol 1x1 : dodge rating + poison resist
+Small Idol 1x1 : dodge rating + Shared Physical Damage
+Small Idol 1x1 : armor + health
+Small Idol 1x1 : armor + lightning resist
+Small Idol 1x1 : armor + cold resist
+Small Idol 1x1 : armor + fire resist
+Small Idol 1x1 : armor + elem resist
+Small Idol 1x1 : increased health regen + void resist
+Small Idol 1x1 : increased health regen + physical resist
+Small Idol 1x1 : increased health regen + necrotic resist
+Small Idol 1x1 : increased damage over time + necrotic resist
+Small Idol 1x1 : Damage Over Time + Poison Resistance
+Small Idol 1x1 : increased damage over time + physical resist
+Small Idol 1x1 : increased Healing effectiveness + void resist
+Small Idol 1x1 : increased Healing effectiveness + physical resist
+Small Idol 1x1 : increased Healing effectiveness + necrotic resist
+Small Idol 1x1 : increased Healing effectiveness + poison resist
+Small Idol 1x1 : increased stun chance + poison resist
+Small Idol 1x1 : increased stun chance + void resist
+Small Idol 1x1 : increased stun chance + necrotic resist
+Small Idol 1x1 : increased stun chance + physical resist
+Small Idol 1x1 : Chance to Shock on Hit + Shared Lightning Damage
