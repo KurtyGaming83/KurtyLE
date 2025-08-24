@@ -1,0 +1,3314 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ItemFilter xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+  <name>idols Season 3</name>
+  <filterIcon>20</filterIcon>
+  <filterIconColor>0</filterIconColor>
+  <description />
+  <lastModifiedInVersion>1.2.5.2</lastModifiedInVersion>
+  <lootFilterVersion>5</lootFilterVersion>
+  <rules>
+    <Rule>
+      <type>HIDE</type>
+      <conditions>
+        <Condition i:type="SubTypeCondition">
+          <type>
+            <EquipmentType>TWO_HANDED_AXE</EquipmentType>
+            <EquipmentType>TWO_HANDED_MACE</EquipmentType>
+            <EquipmentType>TWO_HANDED_SPEAR</EquipmentType>
+            <EquipmentType>TWO_HANDED_STAFF</EquipmentType>
+            <EquipmentType>TWO_HANDED_SWORD</EquipmentType>
+            <EquipmentType>BOW</EquipmentType>
+            <EquipmentType>ONE_HANDED_AXE</EquipmentType>
+            <EquipmentType>ONE_HANDED_MACES</EquipmentType>
+            <EquipmentType>ONE_HANDED_SCEPTRE</EquipmentType>
+            <EquipmentType>ONE_HANDED_SWORD</EquipmentType>
+            <EquipmentType>WAND</EquipmentType>
+            <EquipmentType>ONE_HANDED_DAGGER</EquipmentType>
+            <EquipmentType>CATALYST</EquipmentType>
+            <EquipmentType>SHIELD</EquipmentType>
+            <EquipmentType>QUIVER</EquipmentType>
+            <EquipmentType>HELMET</EquipmentType>
+            <EquipmentType>BODY_ARMOR</EquipmentType>
+            <EquipmentType>BELT</EquipmentType>
+            <EquipmentType>BOOTS</EquipmentType>
+            <EquipmentType>GLOVES</EquipmentType>
+            <EquipmentType>AMULET</EquipmentType>
+            <EquipmentType>RING</EquipmentType>
+            <EquipmentType>RELIC</EquipmentType>
+          </type>
+          <subTypes />
+        </Condition>
+      </conditions>
+      <color>0</color>
+      <isEnabled>true</isEnabled>
+      <levelDependent_deprecated>false</levelDependent_deprecated>
+      <minLvl_deprecated>0</minLvl_deprecated>
+      <maxLvl_deprecated>0</maxLvl_deprecated>
+      <emphasized>false</emphasized>
+      <nameOverride />
+      <SoundId>0</SoundId>
+      <BeamId>0</BeamId>
+      <Order>74</Order>
+    </Rule>
+    <Rule>
+      <type>HIDE</type>
+      <conditions>
+        <Condition i:type="SubTypeCondition">
+          <type>
+            <EquipmentType>IDOL_1x1_ETERRA</EquipmentType>
+            <EquipmentType>IDOL_1x1_LAGON</EquipmentType>
+            <EquipmentType>IDOL_2x1</EquipmentType>
+            <EquipmentType>IDOL_1x2</EquipmentType>
+            <EquipmentType>IDOL_3x1</EquipmentType>
+            <EquipmentType>IDOL_1x3</EquipmentType>
+            <EquipmentType>IDOL_4x1</EquipmentType>
+            <EquipmentType>IDOL_1x4</EquipmentType>
+            <EquipmentType>IDOL_2x2</EquipmentType>
+          </type>
+          <subTypes />
+        </Condition>
+      </conditions>
+      <color>0</color>
+      <isEnabled>true</isEnabled>
+      <levelDependent_deprecated>false</levelDependent_deprecated>
+      <minLvl_deprecated>0</minLvl_deprecated>
+      <maxLvl_deprecated>0</maxLvl_deprecated>
+      <emphasized>false</emphasized>
+      <nameOverride />
+      <SoundId>0</SoundId>
+      <BeamId>0</BeamId>
+      <Order>73</Order>
+    </Rule>
+    <Rule>
+      <type>SHOW</type>
+      <conditions>
+        <Condition i:type="SubTypeCondition">
+          <type>
+            <EquipmentType>IDOL_1x1_LAGON</EquipmentType>
+            <EquipmentType>IDOL_1x1_ETERRA</EquipmentType>
+          </type>
+          <subTypes />
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>839</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+      </conditions>
+      <color>15</color>
+      <isEnabled>true</isEnabled>
+      <levelDependent_deprecated>false</levelDependent_deprecated>
+      <minLvl_deprecated>0</minLvl_deprecated>
+      <maxLvl_deprecated>0</maxLvl_deprecated>
+      <emphasized>false</emphasized>
+      <nameOverride />
+      <SoundId>0</SoundId>
+      <BeamId>0</BeamId>
+      <Order>72</Order>
+    </Rule>
+    <Rule>
+      <type>SHOW</type>
+      <conditions>
+        <Condition i:type="SubTypeCondition">
+          <type>
+            <EquipmentType>IDOL_1x1_LAGON</EquipmentType>
+          </type>
+          <subTypes />
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>109</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>854</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+      </conditions>
+      <color>13</color>
+      <isEnabled>true</isEnabled>
+      <levelDependent_deprecated>false</levelDependent_deprecated>
+      <minLvl_deprecated>0</minLvl_deprecated>
+      <maxLvl_deprecated>0</maxLvl_deprecated>
+      <emphasized>false</emphasized>
+      <nameOverride>Lunar - of repose (minor)</nameOverride>
+      <SoundId>0</SoundId>
+      <BeamId>0</BeamId>
+      <Order>71</Order>
+    </Rule>
+    <Rule>
+      <type>SHOW</type>
+      <conditions>
+        <Condition i:type="SubTypeCondition">
+          <type>
+            <EquipmentType>IDOL_1x1_LAGON</EquipmentType>
+          </type>
+          <subTypes />
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>843</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>854</int>
+            <int>850</int>
+            <int>855</int>
+            <int>853</int>
+            <int>113</int>
+            <int>851</int>
+            <int>112</int>
+            <int>320</int>
+            <int>321</int>
+            <int>322</int>
+            <int>857</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+      </conditions>
+      <color>13</color>
+      <isEnabled>true</isEnabled>
+      <levelDependent_deprecated>false</levelDependent_deprecated>
+      <minLvl_deprecated>0</minLvl_deprecated>
+      <maxLvl_deprecated>0</maxLvl_deprecated>
+      <emphasized>false</emphasized>
+      <nameOverride>inspired - many affixes (minor)</nameOverride>
+      <SoundId>0</SoundId>
+      <BeamId>0</BeamId>
+      <Order>70</Order>
+    </Rule>
+    <Rule>
+      <type>SHOW</type>
+      <conditions>
+        <Condition i:type="SubTypeCondition">
+          <type>
+            <EquipmentType>IDOL_1x1_LAGON</EquipmentType>
+          </type>
+          <subTypes />
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>846</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>853</int>
+            <int>856</int>
+            <int>852</int>
+            <int>851</int>
+            <int>854</int>
+            <int>848</int>
+            <int>843</int>
+            <int>842</int>
+            <int>847</int>
+            <int>850</int>
+            <int>112</int>
+            <int>113</int>
+            <int>111</int>
+            <int>117</int>
+            <int>320</int>
+            <int>321</int>
+            <int>322</int>
+            <int>105</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+      </conditions>
+      <color>13</color>
+      <isEnabled>true</isEnabled>
+      <levelDependent_deprecated>false</levelDependent_deprecated>
+      <minLvl_deprecated>0</minLvl_deprecated>
+      <maxLvl_deprecated>0</maxLvl_deprecated>
+      <emphasized>false</emphasized>
+      <nameOverride>preserving - many affixes (minor)</nameOverride>
+      <SoundId>0</SoundId>
+      <BeamId>0</BeamId>
+      <Order>69</Order>
+    </Rule>
+    <Rule>
+      <type>SHOW</type>
+      <conditions>
+        <Condition i:type="SubTypeCondition">
+          <type>
+            <EquipmentType>IDOL_1x1_LAGON</EquipmentType>
+          </type>
+          <subTypes />
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>842</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>854</int>
+            <int>852</int>
+            <int>851</int>
+            <int>850</int>
+            <int>856</int>
+            <int>853</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+      </conditions>
+      <color>13</color>
+      <isEnabled>true</isEnabled>
+      <levelDependent_deprecated>false</levelDependent_deprecated>
+      <minLvl_deprecated>0</minLvl_deprecated>
+      <maxLvl_deprecated>0</maxLvl_deprecated>
+      <emphasized>false</emphasized>
+      <nameOverride>armored - many affixes (minor)</nameOverride>
+      <SoundId>0</SoundId>
+      <BeamId>0</BeamId>
+      <Order>68</Order>
+    </Rule>
+    <Rule>
+      <type>SHOW</type>
+      <conditions>
+        <Condition i:type="SubTypeCondition">
+          <type>
+            <EquipmentType>IDOL_1x1_LAGON</EquipmentType>
+          </type>
+          <subTypes />
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>847</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>853</int>
+            <int>321</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+      </conditions>
+      <color>13</color>
+      <isEnabled>true</isEnabled>
+      <levelDependent_deprecated>false</levelDependent_deprecated>
+      <minLvl_deprecated>0</minLvl_deprecated>
+      <maxLvl_deprecated>0</maxLvl_deprecated>
+      <emphasized>false</emphasized>
+      <nameOverride>biting - many affixes (minor)</nameOverride>
+      <SoundId>0</SoundId>
+      <BeamId>0</BeamId>
+      <Order>67</Order>
+    </Rule>
+    <Rule>
+      <type>SHOW</type>
+      <conditions>
+        <Condition i:type="SubTypeCondition">
+          <type>
+            <EquipmentType>IDOL_1x1_ETERRA</EquipmentType>
+          </type>
+          <subTypes />
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>831</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>837</int>
+            <int>838</int>
+            <int>836</int>
+            <int>839</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+      </conditions>
+      <color>13</color>
+      <isEnabled>true</isEnabled>
+      <levelDependent_deprecated>false</levelDependent_deprecated>
+      <minLvl_deprecated>0</minLvl_deprecated>
+      <maxLvl_deprecated>0</maxLvl_deprecated>
+      <emphasized>false</emphasized>
+      <nameOverride>dreaded - many affixes (small)</nameOverride>
+      <SoundId>0</SoundId>
+      <BeamId>0</BeamId>
+      <Order>66</Order>
+    </Rule>
+    <Rule>
+      <type>SHOW</type>
+      <conditions>
+        <Condition i:type="SubTypeCondition">
+          <type>
+            <EquipmentType>IDOL_1x1_ETERRA</EquipmentType>
+          </type>
+          <subTypes />
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>827</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>838</int>
+            <int>835</int>
+            <int>840</int>
+            <int>836</int>
+            <int>837</int>
+            <int>430</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+      </conditions>
+      <color>13</color>
+      <isEnabled>true</isEnabled>
+      <levelDependent_deprecated>false</levelDependent_deprecated>
+      <minLvl_deprecated>0</minLvl_deprecated>
+      <maxLvl_deprecated>0</maxLvl_deprecated>
+      <emphasized>false</emphasized>
+      <nameOverride>graceful - many affixes (small)</nameOverride>
+      <SoundId>0</SoundId>
+      <BeamId>0</BeamId>
+      <Order>65</Order>
+    </Rule>
+    <Rule>
+      <type>SHOW</type>
+      <conditions>
+        <Condition i:type="SubTypeCondition">
+          <type>
+            <EquipmentType>IDOL_1x1_ETERRA</EquipmentType>
+          </type>
+          <subTypes />
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>833</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>840</int>
+            <int>837</int>
+            <int>319</int>
+            <int>841</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+      </conditions>
+      <color>13</color>
+      <isEnabled>true</isEnabled>
+      <levelDependent_deprecated>false</levelDependent_deprecated>
+      <minLvl_deprecated>0</minLvl_deprecated>
+      <maxLvl_deprecated>0</maxLvl_deprecated>
+      <emphasized>false</emphasized>
+      <nameOverride>fanged - many affixes (small) </nameOverride>
+      <SoundId>0</SoundId>
+      <BeamId>0</BeamId>
+      <Order>64</Order>
+    </Rule>
+    <Rule>
+      <type>SHOW</type>
+      <conditions>
+        <Condition i:type="SubTypeCondition">
+          <type>
+            <EquipmentType>IDOL_1x1_ETERRA</EquipmentType>
+          </type>
+          <subTypes />
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>828</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>841</int>
+            <int>837</int>
+            <int>835</int>
+            <int>836</int>
+            <int>839</int>
+            <int>840</int>
+            <int>114</int>
+            <int>323</int>
+            <int>325</int>
+            <int>319</int>
+            <int>838</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+      </conditions>
+      <color>13</color>
+      <isEnabled>true</isEnabled>
+      <levelDependent_deprecated>false</levelDependent_deprecated>
+      <minLvl_deprecated>0</minLvl_deprecated>
+      <maxLvl_deprecated>0</maxLvl_deprecated>
+      <emphasized>false</emphasized>
+      <nameOverride>serene - many affixes (small)</nameOverride>
+      <SoundId>0</SoundId>
+      <BeamId>0</BeamId>
+      <Order>63</Order>
+    </Rule>
+    <Rule>
+      <type>SHOW</type>
+      <conditions>
+        <Condition i:type="SubTypeCondition">
+          <type>
+            <EquipmentType>IDOL_1x1_ETERRA</EquipmentType>
+            <EquipmentType>IDOL_1x1_LAGON</EquipmentType>
+            <EquipmentType>IDOL_2x1</EquipmentType>
+            <EquipmentType>IDOL_1x2</EquipmentType>
+            <EquipmentType>IDOL_3x1</EquipmentType>
+            <EquipmentType>IDOL_1x3</EquipmentType>
+            <EquipmentType>IDOL_4x1</EquipmentType>
+            <EquipmentType>IDOL_1x4</EquipmentType>
+            <EquipmentType>IDOL_2x2</EquipmentType>
+          </type>
+          <subTypes />
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>826</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>325</int>
+            <int>838</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+      </conditions>
+      <color>13</color>
+      <isEnabled>true</isEnabled>
+      <levelDependent_deprecated>false</levelDependent_deprecated>
+      <minLvl_deprecated>0</minLvl_deprecated>
+      <maxLvl_deprecated>0</maxLvl_deprecated>
+      <emphasized>false</emphasized>
+      <nameOverride>relentless - many affixes (small)</nameOverride>
+      <SoundId>0</SoundId>
+      <BeamId>0</BeamId>
+      <Order>62</Order>
+    </Rule>
+    <Rule>
+      <type>SHOW</type>
+      <conditions>
+        <Condition i:type="SubTypeCondition">
+          <type>
+            <EquipmentType>IDOL_1x1_ETERRA</EquipmentType>
+          </type>
+          <subTypes />
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>829</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>837</int>
+            <int>836</int>
+            <int>839</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+      </conditions>
+      <color>13</color>
+      <isEnabled>true</isEnabled>
+      <levelDependent_deprecated>false</levelDependent_deprecated>
+      <minLvl_deprecated>0</minLvl_deprecated>
+      <maxLvl_deprecated>0</maxLvl_deprecated>
+      <emphasized>false</emphasized>
+      <nameOverride>cleric - many affixes (small)</nameOverride>
+      <SoundId>0</SoundId>
+      <BeamId>0</BeamId>
+      <Order>61</Order>
+    </Rule>
+    <Rule>
+      <type>SHOW</type>
+      <conditions>
+        <Condition i:type="SubTypeCondition">
+          <type>
+            <EquipmentType>IDOL_1x1_ETERRA</EquipmentType>
+            <EquipmentType>IDOL_1x1_LAGON</EquipmentType>
+            <EquipmentType>IDOL_2x1</EquipmentType>
+            <EquipmentType>IDOL_1x2</EquipmentType>
+            <EquipmentType>IDOL_3x1</EquipmentType>
+            <EquipmentType>IDOL_1x3</EquipmentType>
+            <EquipmentType>IDOL_4x1</EquipmentType>
+            <EquipmentType>IDOL_1x4</EquipmentType>
+            <EquipmentType>IDOL_2x2</EquipmentType>
+          </type>
+          <subTypes />
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>828</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>836</int>
+            <int>840</int>
+            <int>870</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+      </conditions>
+      <color>13</color>
+      <isEnabled>true</isEnabled>
+      <levelDependent_deprecated>false</levelDependent_deprecated>
+      <minLvl_deprecated>0</minLvl_deprecated>
+      <maxLvl_deprecated>0</maxLvl_deprecated>
+      <emphasized>false</emphasized>
+      <nameOverride>restful - many affixes (small)</nameOverride>
+      <SoundId>0</SoundId>
+      <BeamId>0</BeamId>
+      <Order>60</Order>
+    </Rule>
+    <Rule>
+      <type>SHOW</type>
+      <conditions>
+        <Condition i:type="SubTypeCondition">
+          <type>
+            <EquipmentType>IDOL_1x1_ETERRA</EquipmentType>
+            <EquipmentType>IDOL_1x1_LAGON</EquipmentType>
+            <EquipmentType>IDOL_2x1</EquipmentType>
+            <EquipmentType>IDOL_1x2</EquipmentType>
+            <EquipmentType>IDOL_3x1</EquipmentType>
+            <EquipmentType>IDOL_1x3</EquipmentType>
+            <EquipmentType>IDOL_4x1</EquipmentType>
+            <EquipmentType>IDOL_1x4</EquipmentType>
+            <EquipmentType>IDOL_2x2</EquipmentType>
+          </type>
+          <subTypes />
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>118</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>839</int>
+            <int>837</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+      </conditions>
+      <color>13</color>
+      <isEnabled>true</isEnabled>
+      <levelDependent_deprecated>false</levelDependent_deprecated>
+      <minLvl_deprecated>0</minLvl_deprecated>
+      <maxLvl_deprecated>0</maxLvl_deprecated>
+      <emphasized>false</emphasized>
+      <nameOverride>evasive + many affixes (small)</nameOverride>
+      <SoundId>0</SoundId>
+      <BeamId>0</BeamId>
+      <Order>59</Order>
+    </Rule>
+    <Rule>
+      <type>SHOW</type>
+      <conditions>
+        <Condition i:type="SubTypeCondition">
+          <type>
+            <EquipmentType>IDOL_1x1_ETERRA</EquipmentType>
+            <EquipmentType>IDOL_1x1_LAGON</EquipmentType>
+            <EquipmentType>IDOL_2x1</EquipmentType>
+            <EquipmentType>IDOL_1x2</EquipmentType>
+            <EquipmentType>IDOL_3x1</EquipmentType>
+            <EquipmentType>IDOL_1x3</EquipmentType>
+            <EquipmentType>IDOL_4x1</EquipmentType>
+            <EquipmentType>IDOL_1x4</EquipmentType>
+            <EquipmentType>IDOL_2x2</EquipmentType>
+          </type>
+          <subTypes />
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>830</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>837</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+      </conditions>
+      <color>13</color>
+      <isEnabled>true</isEnabled>
+      <levelDependent_deprecated>false</levelDependent_deprecated>
+      <minLvl_deprecated>0</minLvl_deprecated>
+      <maxLvl_deprecated>0</maxLvl_deprecated>
+      <emphasized>false</emphasized>
+      <nameOverride>loom walker - of chitin (small)</nameOverride>
+      <SoundId>0</SoundId>
+      <BeamId>0</BeamId>
+      <Order>58</Order>
+    </Rule>
+    <Rule>
+      <type>SHOW</type>
+      <conditions>
+        <Condition i:type="SubTypeCondition">
+          <type>
+            <EquipmentType>IDOL_1x1_ETERRA</EquipmentType>
+            <EquipmentType>IDOL_1x1_LAGON</EquipmentType>
+            <EquipmentType>IDOL_2x1</EquipmentType>
+            <EquipmentType>IDOL_1x2</EquipmentType>
+            <EquipmentType>IDOL_3x1</EquipmentType>
+            <EquipmentType>IDOL_1x3</EquipmentType>
+            <EquipmentType>IDOL_4x1</EquipmentType>
+            <EquipmentType>IDOL_1x4</EquipmentType>
+            <EquipmentType>IDOL_2x2</EquipmentType>
+          </type>
+          <subTypes />
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>108</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>839</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+      </conditions>
+      <color>13</color>
+      <isEnabled>true</isEnabled>
+      <levelDependent_deprecated>false</levelDependent_deprecated>
+      <minLvl_deprecated>0</minLvl_deprecated>
+      <maxLvl_deprecated>0</maxLvl_deprecated>
+      <emphasized>false</emphasized>
+      <nameOverride>bountiful - briar (small)</nameOverride>
+      <SoundId>0</SoundId>
+      <BeamId>0</BeamId>
+      <Order>57</Order>
+    </Rule>
+    <Rule>
+      <type>SHOW</type>
+      <conditions>
+        <Condition i:type="SubTypeCondition">
+          <type>
+            <EquipmentType>IDOL_1x2</EquipmentType>
+          </type>
+          <subTypes />
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>880</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>886</int>
+            <int>891</int>
+            <int>889</int>
+            <int>322</int>
+            <int>885</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+      </conditions>
+      <color>15</color>
+      <isEnabled>true</isEnabled>
+      <levelDependent_deprecated>false</levelDependent_deprecated>
+      <minLvl_deprecated>0</minLvl_deprecated>
+      <maxLvl_deprecated>0</maxLvl_deprecated>
+      <emphasized>false</emphasized>
+      <nameOverride />
+      <SoundId>0</SoundId>
+      <BeamId>0</BeamId>
+      <Order>56</Order>
+    </Rule>
+    <Rule>
+      <type>SHOW</type>
+      <conditions>
+        <Condition i:type="SubTypeCondition">
+          <type>
+            <EquipmentType>IDOL_1x2</EquipmentType>
+          </type>
+          <subTypes />
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>879</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>891</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+      </conditions>
+      <color>15</color>
+      <isEnabled>true</isEnabled>
+      <levelDependent_deprecated>false</levelDependent_deprecated>
+      <minLvl_deprecated>0</minLvl_deprecated>
+      <maxLvl_deprecated>0</maxLvl_deprecated>
+      <emphasized>false</emphasized>
+      <nameOverride />
+      <SoundId>0</SoundId>
+      <BeamId>0</BeamId>
+      <Order>55</Order>
+    </Rule>
+    <Rule>
+      <type>SHOW</type>
+      <conditions>
+        <Condition i:type="SubTypeCondition">
+          <type>
+            <EquipmentType>IDOL_1x2</EquipmentType>
+          </type>
+          <subTypes />
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>883</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>891</int>
+            <int>890</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+      </conditions>
+      <color>15</color>
+      <isEnabled>true</isEnabled>
+      <levelDependent_deprecated>false</levelDependent_deprecated>
+      <minLvl_deprecated>0</minLvl_deprecated>
+      <maxLvl_deprecated>0</maxLvl_deprecated>
+      <emphasized>false</emphasized>
+      <nameOverride />
+      <SoundId>0</SoundId>
+      <BeamId>0</BeamId>
+      <Order>54</Order>
+    </Rule>
+    <Rule>
+      <type>SHOW</type>
+      <conditions>
+        <Condition i:type="SubTypeCondition">
+          <type>
+            <EquipmentType>IDOL_1x2</EquipmentType>
+          </type>
+          <subTypes />
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>882</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>321</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+      </conditions>
+      <color>15</color>
+      <isEnabled>true</isEnabled>
+      <levelDependent_deprecated>false</levelDependent_deprecated>
+      <minLvl_deprecated>0</minLvl_deprecated>
+      <maxLvl_deprecated>0</maxLvl_deprecated>
+      <emphasized>false</emphasized>
+      <nameOverride />
+      <SoundId>0</SoundId>
+      <BeamId>0</BeamId>
+      <Order>53</Order>
+    </Rule>
+    <Rule>
+      <type>SHOW</type>
+      <conditions>
+        <Condition i:type="SubTypeCondition">
+          <type>
+            <EquipmentType>IDOL_3x1</EquipmentType>
+          </type>
+          <subTypes />
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>119</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>271</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+      </conditions>
+      <color>15</color>
+      <isEnabled>true</isEnabled>
+      <levelDependent_deprecated>false</levelDependent_deprecated>
+      <minLvl_deprecated>0</minLvl_deprecated>
+      <maxLvl_deprecated>0</maxLvl_deprecated>
+      <emphasized>false</emphasized>
+      <nameOverride />
+      <SoundId>0</SoundId>
+      <BeamId>0</BeamId>
+      <Order>52</Order>
+    </Rule>
+    <Rule>
+      <type>SHOW</type>
+      <conditions>
+        <Condition i:type="SubTypeCondition">
+          <type>
+            <EquipmentType>IDOL_3x1</EquipmentType>
+          </type>
+          <subTypes />
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>204</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>198</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+      </conditions>
+      <color>15</color>
+      <isEnabled>true</isEnabled>
+      <levelDependent_deprecated>false</levelDependent_deprecated>
+      <minLvl_deprecated>0</minLvl_deprecated>
+      <maxLvl_deprecated>0</maxLvl_deprecated>
+      <emphasized>false</emphasized>
+      <nameOverride />
+      <SoundId>0</SoundId>
+      <BeamId>0</BeamId>
+      <Order>51</Order>
+    </Rule>
+    <Rule>
+      <type>SHOW</type>
+      <conditions>
+        <Condition i:type="SubTypeCondition">
+          <type>
+            <EquipmentType>IDOL_3x1</EquipmentType>
+          </type>
+          <subTypes />
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>109</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>151</int>
+            <int>129</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+      </conditions>
+      <color>15</color>
+      <isEnabled>true</isEnabled>
+      <levelDependent_deprecated>false</levelDependent_deprecated>
+      <minLvl_deprecated>0</minLvl_deprecated>
+      <maxLvl_deprecated>0</maxLvl_deprecated>
+      <emphasized>false</emphasized>
+      <nameOverride />
+      <SoundId>0</SoundId>
+      <BeamId>0</BeamId>
+      <Order>50</Order>
+    </Rule>
+    <Rule>
+      <type>SHOW</type>
+      <conditions>
+        <Condition i:type="SubTypeCondition">
+          <type>
+            <EquipmentType>IDOL_3x1</EquipmentType>
+          </type>
+          <subTypes />
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>213</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>151</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+      </conditions>
+      <color>15</color>
+      <isEnabled>true</isEnabled>
+      <levelDependent_deprecated>false</levelDependent_deprecated>
+      <minLvl_deprecated>0</minLvl_deprecated>
+      <maxLvl_deprecated>0</maxLvl_deprecated>
+      <emphasized>false</emphasized>
+      <nameOverride />
+      <SoundId>0</SoundId>
+      <BeamId>0</BeamId>
+      <Order>49</Order>
+    </Rule>
+    <Rule>
+      <type>SHOW</type>
+      <conditions>
+        <Condition i:type="SubTypeCondition">
+          <type>
+            <EquipmentType>IDOL_3x1</EquipmentType>
+          </type>
+          <subTypes />
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>174</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>129</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+      </conditions>
+      <color>15</color>
+      <isEnabled>true</isEnabled>
+      <levelDependent_deprecated>false</levelDependent_deprecated>
+      <minLvl_deprecated>0</minLvl_deprecated>
+      <maxLvl_deprecated>0</maxLvl_deprecated>
+      <emphasized>false</emphasized>
+      <nameOverride />
+      <SoundId>0</SoundId>
+      <BeamId>0</BeamId>
+      <Order>48</Order>
+    </Rule>
+    <Rule>
+      <type>SHOW</type>
+      <conditions>
+        <Condition i:type="SubTypeCondition">
+          <type>
+            <EquipmentType>IDOL_3x1</EquipmentType>
+          </type>
+          <subTypes />
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>157</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>169</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+      </conditions>
+      <color>15</color>
+      <isEnabled>true</isEnabled>
+      <levelDependent_deprecated>false</levelDependent_deprecated>
+      <minLvl_deprecated>0</minLvl_deprecated>
+      <maxLvl_deprecated>0</maxLvl_deprecated>
+      <emphasized>false</emphasized>
+      <nameOverride />
+      <SoundId>0</SoundId>
+      <BeamId>0</BeamId>
+      <Order>47</Order>
+    </Rule>
+    <Rule>
+      <type>SHOW</type>
+      <conditions>
+        <Condition i:type="SubTypeCondition">
+          <type>
+            <EquipmentType>IDOL_3x1</EquipmentType>
+          </type>
+          <subTypes />
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>750</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>114</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+      </conditions>
+      <color>15</color>
+      <isEnabled>true</isEnabled>
+      <levelDependent_deprecated>false</levelDependent_deprecated>
+      <minLvl_deprecated>0</minLvl_deprecated>
+      <maxLvl_deprecated>0</maxLvl_deprecated>
+      <emphasized>false</emphasized>
+      <nameOverride />
+      <SoundId>0</SoundId>
+      <BeamId>0</BeamId>
+      <Order>46</Order>
+    </Rule>
+    <Rule>
+      <type>SHOW</type>
+      <conditions>
+        <Condition i:type="SubTypeCondition">
+          <type>
+            <EquipmentType>IDOL_2x1</EquipmentType>
+          </type>
+          <subTypes />
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>862</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>869</int>
+            <int>870</int>
+            <int>874</int>
+            <int>430</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+      </conditions>
+      <color>15</color>
+      <isEnabled>true</isEnabled>
+      <levelDependent_deprecated>false</levelDependent_deprecated>
+      <minLvl_deprecated>0</minLvl_deprecated>
+      <maxLvl_deprecated>0</maxLvl_deprecated>
+      <emphasized>false</emphasized>
+      <nameOverride />
+      <SoundId>0</SoundId>
+      <BeamId>0</BeamId>
+      <Order>45</Order>
+    </Rule>
+    <Rule>
+      <type>SHOW</type>
+      <conditions>
+        <Condition i:type="SubTypeCondition">
+          <type>
+            <EquipmentType>IDOL_2x1</EquipmentType>
+          </type>
+          <subTypes />
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>866</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>870</int>
+            <int>868</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+      </conditions>
+      <color>15</color>
+      <isEnabled>true</isEnabled>
+      <levelDependent_deprecated>false</levelDependent_deprecated>
+      <minLvl_deprecated>0</minLvl_deprecated>
+      <maxLvl_deprecated>0</maxLvl_deprecated>
+      <emphasized>false</emphasized>
+      <nameOverride />
+      <SoundId>0</SoundId>
+      <BeamId>0</BeamId>
+      <Order>44</Order>
+    </Rule>
+    <Rule>
+      <type>SHOW</type>
+      <conditions>
+        <Condition i:type="SubTypeCondition">
+          <type>
+            <EquipmentType>IDOL_2x1</EquipmentType>
+          </type>
+          <subTypes />
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>863</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>868</int>
+            <int>870</int>
+            <int>867</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+      </conditions>
+      <color>15</color>
+      <isEnabled>true</isEnabled>
+      <levelDependent_deprecated>false</levelDependent_deprecated>
+      <minLvl_deprecated>0</minLvl_deprecated>
+      <maxLvl_deprecated>0</maxLvl_deprecated>
+      <emphasized>false</emphasized>
+      <nameOverride />
+      <SoundId>0</SoundId>
+      <BeamId>0</BeamId>
+      <Order>43</Order>
+    </Rule>
+    <Rule>
+      <type>SHOW</type>
+      <conditions>
+        <Condition i:type="SubTypeCondition">
+          <type>
+            <EquipmentType>IDOL_1x4</EquipmentType>
+          </type>
+          <subTypes />
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>763</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>117</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+      </conditions>
+      <color>15</color>
+      <isEnabled>true</isEnabled>
+      <levelDependent_deprecated>false</levelDependent_deprecated>
+      <minLvl_deprecated>0</minLvl_deprecated>
+      <maxLvl_deprecated>0</maxLvl_deprecated>
+      <emphasized>false</emphasized>
+      <nameOverride />
+      <SoundId>0</SoundId>
+      <BeamId>0</BeamId>
+      <Order>42</Order>
+    </Rule>
+    <Rule>
+      <type>SHOW</type>
+      <conditions>
+        <Condition i:type="SubTypeCondition">
+          <type>
+            <EquipmentType>IDOL_1x4</EquipmentType>
+          </type>
+          <subTypes />
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>134</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>197</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+      </conditions>
+      <color>15</color>
+      <isEnabled>true</isEnabled>
+      <levelDependent_deprecated>false</levelDependent_deprecated>
+      <minLvl_deprecated>0</minLvl_deprecated>
+      <maxLvl_deprecated>0</maxLvl_deprecated>
+      <emphasized>false</emphasized>
+      <nameOverride />
+      <SoundId>0</SoundId>
+      <BeamId>0</BeamId>
+      <Order>41</Order>
+    </Rule>
+    <Rule>
+      <type>SHOW</type>
+      <conditions>
+        <Condition i:type="SubTypeCondition">
+          <type>
+            <EquipmentType>IDOL_1x4</EquipmentType>
+          </type>
+          <subTypes />
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>659</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>197</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+      </conditions>
+      <color>15</color>
+      <isEnabled>true</isEnabled>
+      <levelDependent_deprecated>false</levelDependent_deprecated>
+      <minLvl_deprecated>0</minLvl_deprecated>
+      <maxLvl_deprecated>0</maxLvl_deprecated>
+      <emphasized>false</emphasized>
+      <nameOverride />
+      <SoundId>0</SoundId>
+      <BeamId>0</BeamId>
+      <Order>40</Order>
+    </Rule>
+    <Rule>
+      <type>SHOW</type>
+      <conditions>
+        <Condition i:type="SubTypeCondition">
+          <type>
+            <EquipmentType>IDOL_1x4</EquipmentType>
+          </type>
+          <subTypes />
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>123</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>105</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+      </conditions>
+      <color>15</color>
+      <isEnabled>true</isEnabled>
+      <levelDependent_deprecated>false</levelDependent_deprecated>
+      <minLvl_deprecated>0</minLvl_deprecated>
+      <maxLvl_deprecated>0</maxLvl_deprecated>
+      <emphasized>false</emphasized>
+      <nameOverride />
+      <SoundId>0</SoundId>
+      <BeamId>0</BeamId>
+      <Order>39</Order>
+    </Rule>
+    <Rule>
+      <type>SHOW</type>
+      <conditions>
+        <Condition i:type="SubTypeCondition">
+          <type>
+            <EquipmentType>IDOL_2x2</EquipmentType>
+          </type>
+          <subTypes />
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>743</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>478</int>
+            <int>441</int>
+            <int>116</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+      </conditions>
+      <color>15</color>
+      <isEnabled>true</isEnabled>
+      <levelDependent_deprecated>false</levelDependent_deprecated>
+      <minLvl_deprecated>0</minLvl_deprecated>
+      <maxLvl_deprecated>0</maxLvl_deprecated>
+      <emphasized>false</emphasized>
+      <nameOverride />
+      <SoundId>0</SoundId>
+      <BeamId>0</BeamId>
+      <Order>38</Order>
+    </Rule>
+    <Rule>
+      <type>SHOW</type>
+      <conditions>
+        <Condition i:type="SubTypeCondition">
+          <type>
+            <EquipmentType>IDOL_2x2</EquipmentType>
+          </type>
+          <subTypes />
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>276</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>105</int>
+            <int>197</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+      </conditions>
+      <color>15</color>
+      <isEnabled>true</isEnabled>
+      <levelDependent_deprecated>false</levelDependent_deprecated>
+      <minLvl_deprecated>0</minLvl_deprecated>
+      <maxLvl_deprecated>0</maxLvl_deprecated>
+      <emphasized>false</emphasized>
+      <nameOverride />
+      <SoundId>0</SoundId>
+      <BeamId>0</BeamId>
+      <Order>37</Order>
+    </Rule>
+    <Rule>
+      <type>SHOW</type>
+      <conditions>
+        <Condition i:type="SubTypeCondition">
+          <type>
+            <EquipmentType>IDOL_2x2</EquipmentType>
+          </type>
+          <subTypes />
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>316</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>287</int>
+            <int>297</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+      </conditions>
+      <color>15</color>
+      <isEnabled>true</isEnabled>
+      <levelDependent_deprecated>false</levelDependent_deprecated>
+      <minLvl_deprecated>0</minLvl_deprecated>
+      <maxLvl_deprecated>0</maxLvl_deprecated>
+      <emphasized>false</emphasized>
+      <nameOverride />
+      <SoundId>0</SoundId>
+      <BeamId>0</BeamId>
+      <Order>36</Order>
+    </Rule>
+    <Rule>
+      <type>SHOW</type>
+      <conditions>
+        <Condition i:type="SubTypeCondition">
+          <type>
+            <EquipmentType>IDOL_2x2</EquipmentType>
+          </type>
+          <subTypes />
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>142</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>256</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+      </conditions>
+      <color>15</color>
+      <isEnabled>true</isEnabled>
+      <levelDependent_deprecated>false</levelDependent_deprecated>
+      <minLvl_deprecated>0</minLvl_deprecated>
+      <maxLvl_deprecated>0</maxLvl_deprecated>
+      <emphasized>false</emphasized>
+      <nameOverride />
+      <SoundId>0</SoundId>
+      <BeamId>0</BeamId>
+      <Order>35</Order>
+    </Rule>
+    <Rule>
+      <type>SHOW</type>
+      <conditions>
+        <Condition i:type="SubTypeCondition">
+          <type>
+            <EquipmentType>IDOL_2x2</EquipmentType>
+          </type>
+          <subTypes />
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>135</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>197</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+      </conditions>
+      <color>15</color>
+      <isEnabled>true</isEnabled>
+      <levelDependent_deprecated>false</levelDependent_deprecated>
+      <minLvl_deprecated>0</minLvl_deprecated>
+      <maxLvl_deprecated>0</maxLvl_deprecated>
+      <emphasized>false</emphasized>
+      <nameOverride />
+      <SoundId>0</SoundId>
+      <BeamId>0</BeamId>
+      <Order>34</Order>
+    </Rule>
+    <Rule>
+      <type>SHOW</type>
+      <conditions>
+        <Condition i:type="SubTypeCondition">
+          <type>
+            <EquipmentType>IDOL_4x1</EquipmentType>
+          </type>
+          <subTypes />
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>216</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>116</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+      </conditions>
+      <color>15</color>
+      <isEnabled>true</isEnabled>
+      <levelDependent_deprecated>false</levelDependent_deprecated>
+      <minLvl_deprecated>0</minLvl_deprecated>
+      <maxLvl_deprecated>0</maxLvl_deprecated>
+      <emphasized>false</emphasized>
+      <nameOverride />
+      <SoundId>0</SoundId>
+      <BeamId>0</BeamId>
+      <Order>33</Order>
+    </Rule>
+    <Rule>
+      <type>SHOW</type>
+      <conditions>
+        <Condition i:type="SubTypeCondition">
+          <type>
+            <EquipmentType>IDOL_4x1</EquipmentType>
+          </type>
+          <subTypes />
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>218</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>234</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+      </conditions>
+      <color>15</color>
+      <isEnabled>true</isEnabled>
+      <levelDependent_deprecated>false</levelDependent_deprecated>
+      <minLvl_deprecated>0</minLvl_deprecated>
+      <maxLvl_deprecated>0</maxLvl_deprecated>
+      <emphasized>false</emphasized>
+      <nameOverride />
+      <SoundId>0</SoundId>
+      <BeamId>0</BeamId>
+      <Order>32</Order>
+    </Rule>
+    <Rule>
+      <type>SHOW</type>
+      <conditions>
+        <Condition i:type="SubTypeCondition">
+          <type>
+            <EquipmentType>IDOL_4x1</EquipmentType>
+          </type>
+          <subTypes />
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>278</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>326</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+      </conditions>
+      <color>15</color>
+      <isEnabled>true</isEnabled>
+      <levelDependent_deprecated>false</levelDependent_deprecated>
+      <minLvl_deprecated>0</minLvl_deprecated>
+      <maxLvl_deprecated>0</maxLvl_deprecated>
+      <emphasized>false</emphasized>
+      <nameOverride />
+      <SoundId>0</SoundId>
+      <BeamId>0</BeamId>
+      <Order>31</Order>
+    </Rule>
+    <Rule>
+      <type>SHOW</type>
+      <conditions>
+        <Condition i:type="SubTypeCondition">
+          <type>
+            <EquipmentType>IDOL_4x1</EquipmentType>
+          </type>
+          <subTypes />
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>144</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>151</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+      </conditions>
+      <color>15</color>
+      <isEnabled>true</isEnabled>
+      <levelDependent_deprecated>false</levelDependent_deprecated>
+      <minLvl_deprecated>0</minLvl_deprecated>
+      <maxLvl_deprecated>0</maxLvl_deprecated>
+      <emphasized>false</emphasized>
+      <nameOverride />
+      <SoundId>0</SoundId>
+      <BeamId>0</BeamId>
+      <Order>30</Order>
+    </Rule>
+    <Rule>
+      <type>SHOW</type>
+      <conditions>
+        <Condition i:type="SubTypeCondition">
+          <type>
+            <EquipmentType>IDOL_4x1</EquipmentType>
+          </type>
+          <subTypes />
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>110</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>196</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+      </conditions>
+      <color>15</color>
+      <isEnabled>true</isEnabled>
+      <levelDependent_deprecated>false</levelDependent_deprecated>
+      <minLvl_deprecated>0</minLvl_deprecated>
+      <maxLvl_deprecated>0</maxLvl_deprecated>
+      <emphasized>false</emphasized>
+      <nameOverride />
+      <SoundId>0</SoundId>
+      <BeamId>0</BeamId>
+      <Order>29</Order>
+    </Rule>
+    <Rule>
+      <type>SHOW</type>
+      <conditions>
+        <Condition i:type="SubTypeCondition">
+          <type>
+            <EquipmentType>IDOL_4x1</EquipmentType>
+          </type>
+          <subTypes />
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>716</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>129</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+      </conditions>
+      <color>15</color>
+      <isEnabled>true</isEnabled>
+      <levelDependent_deprecated>false</levelDependent_deprecated>
+      <minLvl_deprecated>0</minLvl_deprecated>
+      <maxLvl_deprecated>0</maxLvl_deprecated>
+      <emphasized>false</emphasized>
+      <nameOverride />
+      <SoundId>0</SoundId>
+      <BeamId>0</BeamId>
+      <Order>28</Order>
+    </Rule>
+    <Rule>
+      <type>SHOW</type>
+      <conditions>
+        <Condition i:type="SubTypeCondition">
+          <type>
+            <EquipmentType>IDOL_4x1</EquipmentType>
+          </type>
+          <subTypes />
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>754</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>114</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+      </conditions>
+      <color>15</color>
+      <isEnabled>true</isEnabled>
+      <levelDependent_deprecated>false</levelDependent_deprecated>
+      <minLvl_deprecated>0</minLvl_deprecated>
+      <maxLvl_deprecated>0</maxLvl_deprecated>
+      <emphasized>false</emphasized>
+      <nameOverride />
+      <SoundId>0</SoundId>
+      <BeamId>0</BeamId>
+      <Order>27</Order>
+    </Rule>
+    <Rule>
+      <type>SHOW</type>
+      <conditions>
+        <Condition i:type="SubTypeCondition">
+          <type>
+            <EquipmentType>IDOL_1x3</EquipmentType>
+          </type>
+          <subTypes />
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>942</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>462</int>
+            <int>117</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+      </conditions>
+      <color>15</color>
+      <isEnabled>true</isEnabled>
+      <levelDependent_deprecated>false</levelDependent_deprecated>
+      <minLvl_deprecated>0</minLvl_deprecated>
+      <maxLvl_deprecated>0</maxLvl_deprecated>
+      <emphasized>false</emphasized>
+      <nameOverride />
+      <SoundId>0</SoundId>
+      <BeamId>0</BeamId>
+      <Order>26</Order>
+    </Rule>
+    <Rule>
+      <type>SHOW</type>
+      <conditions>
+        <Condition i:type="SubTypeCondition">
+          <type>
+            <EquipmentType>IDOL_1x3</EquipmentType>
+          </type>
+          <subTypes />
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>257</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>170</int>
+            <int>162</int>
+            <int>125</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+      </conditions>
+      <color>15</color>
+      <isEnabled>true</isEnabled>
+      <levelDependent_deprecated>false</levelDependent_deprecated>
+      <minLvl_deprecated>0</minLvl_deprecated>
+      <maxLvl_deprecated>0</maxLvl_deprecated>
+      <emphasized>false</emphasized>
+      <nameOverride />
+      <SoundId>0</SoundId>
+      <BeamId>0</BeamId>
+      <Order>25</Order>
+    </Rule>
+    <Rule>
+      <type>SHOW</type>
+      <conditions>
+        <Condition i:type="SubTypeCondition">
+          <type>
+            <EquipmentType>IDOL_1x3</EquipmentType>
+          </type>
+          <subTypes />
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>199</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>105</int>
+            <int>197</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+      </conditions>
+      <color>15</color>
+      <isEnabled>true</isEnabled>
+      <levelDependent_deprecated>false</levelDependent_deprecated>
+      <minLvl_deprecated>0</minLvl_deprecated>
+      <maxLvl_deprecated>0</maxLvl_deprecated>
+      <emphasized>false</emphasized>
+      <nameOverride />
+      <SoundId>0</SoundId>
+      <BeamId>0</BeamId>
+      <Order>24</Order>
+    </Rule>
+    <Rule>
+      <type>SHOW</type>
+      <conditions>
+        <Condition i:type="SubTypeCondition">
+          <type>
+            <EquipmentType>IDOL_1x3</EquipmentType>
+          </type>
+          <subTypes />
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>941</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>105</int>
+            <int>285</int>
+            <int>297</int>
+            <int>287</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+      </conditions>
+      <color>15</color>
+      <isEnabled>true</isEnabled>
+      <levelDependent_deprecated>false</levelDependent_deprecated>
+      <minLvl_deprecated>0</minLvl_deprecated>
+      <maxLvl_deprecated>0</maxLvl_deprecated>
+      <emphasized>false</emphasized>
+      <nameOverride />
+      <SoundId>0</SoundId>
+      <BeamId>0</BeamId>
+      <Order>23</Order>
+    </Rule>
+    <Rule>
+      <type>SHOW</type>
+      <conditions>
+        <Condition i:type="SubTypeCondition">
+          <type>
+            <EquipmentType>IDOL_1x3</EquipmentType>
+          </type>
+          <subTypes />
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>307</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>197</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+      </conditions>
+      <color>15</color>
+      <isEnabled>true</isEnabled>
+      <levelDependent_deprecated>false</levelDependent_deprecated>
+      <minLvl_deprecated>0</minLvl_deprecated>
+      <maxLvl_deprecated>0</maxLvl_deprecated>
+      <emphasized>false</emphasized>
+      <nameOverride />
+      <SoundId>0</SoundId>
+      <BeamId>0</BeamId>
+      <Order>22</Order>
+    </Rule>
+    <Rule>
+      <type>SHOW</type>
+      <conditions>
+        <Condition i:type="SubTypeCondition">
+          <type>
+            <EquipmentType>IDOL_1x3</EquipmentType>
+          </type>
+          <subTypes />
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>139</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>197</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+      </conditions>
+      <color>15</color>
+      <isEnabled>true</isEnabled>
+      <levelDependent_deprecated>false</levelDependent_deprecated>
+      <minLvl_deprecated>0</minLvl_deprecated>
+      <maxLvl_deprecated>0</maxLvl_deprecated>
+      <emphasized>false</emphasized>
+      <nameOverride />
+      <SoundId>0</SoundId>
+      <BeamId>0</BeamId>
+      <Order>21</Order>
+    </Rule>
+    <Rule>
+      <type>SHOW</type>
+      <conditions>
+        <Condition i:type="SubTypeCondition">
+          <type>
+            <EquipmentType>IDOL_1x3</EquipmentType>
+          </type>
+          <subTypes />
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>512</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>462</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+      </conditions>
+      <color>15</color>
+      <isEnabled>true</isEnabled>
+      <levelDependent_deprecated>false</levelDependent_deprecated>
+      <minLvl_deprecated>0</minLvl_deprecated>
+      <maxLvl_deprecated>0</maxLvl_deprecated>
+      <emphasized>false</emphasized>
+      <nameOverride />
+      <SoundId>0</SoundId>
+      <BeamId>0</BeamId>
+      <Order>20</Order>
+    </Rule>
+    <Rule>
+      <type>SHOW</type>
+      <conditions>
+        <Condition i:type="SubTypeCondition">
+          <type>
+            <EquipmentType>IDOL_1x3</EquipmentType>
+          </type>
+          <subTypes />
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>486</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>117</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+      </conditions>
+      <color>15</color>
+      <isEnabled>true</isEnabled>
+      <levelDependent_deprecated>false</levelDependent_deprecated>
+      <minLvl_deprecated>0</minLvl_deprecated>
+      <maxLvl_deprecated>0</maxLvl_deprecated>
+      <emphasized>false</emphasized>
+      <nameOverride />
+      <SoundId>0</SoundId>
+      <BeamId>0</BeamId>
+      <Order>19</Order>
+    </Rule>
+    <Rule>
+      <type>SHOW</type>
+      <conditions>
+        <Condition i:type="SubTypeCondition">
+          <type>
+            <EquipmentType>IDOL_1x3</EquipmentType>
+          </type>
+          <subTypes />
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>128</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>193</int>
+            <int>466</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+      </conditions>
+      <color>15</color>
+      <isEnabled>true</isEnabled>
+      <levelDependent_deprecated>false</levelDependent_deprecated>
+      <minLvl_deprecated>0</minLvl_deprecated>
+      <maxLvl_deprecated>0</maxLvl_deprecated>
+      <emphasized>false</emphasized>
+      <nameOverride />
+      <SoundId>0</SoundId>
+      <BeamId>0</BeamId>
+      <Order>18</Order>
+    </Rule>
+    <Rule>
+      <type>SHOW</type>
+      <conditions>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>880</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>117</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+        <Condition i:type="SubTypeCondition">
+          <type>
+            <EquipmentType>IDOL_1x1_ETERRA</EquipmentType>
+            <EquipmentType>IDOL_1x1_LAGON</EquipmentType>
+            <EquipmentType>IDOL_2x1</EquipmentType>
+            <EquipmentType>IDOL_1x2</EquipmentType>
+            <EquipmentType>IDOL_3x1</EquipmentType>
+            <EquipmentType>IDOL_1x3</EquipmentType>
+            <EquipmentType>IDOL_4x1</EquipmentType>
+            <EquipmentType>IDOL_1x4</EquipmentType>
+            <EquipmentType>IDOL_2x2</EquipmentType>
+          </type>
+          <subTypes />
+        </Condition>
+      </conditions>
+      <color>15</color>
+      <isEnabled>true</isEnabled>
+      <levelDependent_deprecated>false</levelDependent_deprecated>
+      <minLvl_deprecated>0</minLvl_deprecated>
+      <maxLvl_deprecated>0</maxLvl_deprecated>
+      <emphasized>false</emphasized>
+      <nameOverride />
+      <SoundId>0</SoundId>
+      <BeamId>0</BeamId>
+      <Order>17</Order>
+    </Rule>
+    <Rule>
+      <type>SHOW</type>
+      <conditions>
+        <Condition i:type="SubTypeCondition">
+          <type>
+            <EquipmentType>IDOL_1x4</EquipmentType>
+          </type>
+          <subTypes />
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>201</int>
+            <int>148</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>403</int>
+            <int>226</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+      </conditions>
+      <color>15</color>
+      <isEnabled>true</isEnabled>
+      <levelDependent_deprecated>false</levelDependent_deprecated>
+      <minLvl_deprecated>0</minLvl_deprecated>
+      <maxLvl_deprecated>0</maxLvl_deprecated>
+      <emphasized>false</emphasized>
+      <nameOverride />
+      <SoundId>0</SoundId>
+      <BeamId>0</BeamId>
+      <Order>16</Order>
+    </Rule>
+    <Rule>
+      <type>SHOW</type>
+      <conditions>
+        <Condition i:type="SubTypeCondition">
+          <type>
+            <EquipmentType>IDOL_1x1_ETERRA</EquipmentType>
+            <EquipmentType>IDOL_1x1_LAGON</EquipmentType>
+            <EquipmentType>IDOL_2x1</EquipmentType>
+            <EquipmentType>IDOL_1x2</EquipmentType>
+            <EquipmentType>IDOL_3x1</EquipmentType>
+            <EquipmentType>IDOL_1x3</EquipmentType>
+            <EquipmentType>IDOL_4x1</EquipmentType>
+            <EquipmentType>IDOL_1x4</EquipmentType>
+            <EquipmentType>IDOL_2x2</EquipmentType>
+          </type>
+          <subTypes />
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>750</int>
+            <int>114</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>2</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+      </conditions>
+      <color>13</color>
+      <isEnabled>true</isEnabled>
+      <levelDependent_deprecated>false</levelDependent_deprecated>
+      <minLvl_deprecated>0</minLvl_deprecated>
+      <maxLvl_deprecated>0</maxLvl_deprecated>
+      <emphasized>false</emphasized>
+      <nameOverride>hexed - of purity</nameOverride>
+      <SoundId>0</SoundId>
+      <BeamId>0</BeamId>
+      <Order>15</Order>
+    </Rule>
+    <Rule>
+      <type>SHOW</type>
+      <conditions>
+        <Condition i:type="SubTypeCondition">
+          <type>
+            <EquipmentType>IDOL_1x1_ETERRA</EquipmentType>
+            <EquipmentType>IDOL_1x1_LAGON</EquipmentType>
+            <EquipmentType>IDOL_2x1</EquipmentType>
+            <EquipmentType>IDOL_1x2</EquipmentType>
+            <EquipmentType>IDOL_3x1</EquipmentType>
+            <EquipmentType>IDOL_1x3</EquipmentType>
+            <EquipmentType>IDOL_4x1</EquipmentType>
+            <EquipmentType>IDOL_1x4</EquipmentType>
+            <EquipmentType>IDOL_2x2</EquipmentType>
+          </type>
+          <subTypes />
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>866</int>
+            <int>319</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>2</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+      </conditions>
+      <color>13</color>
+      <isEnabled>true</isEnabled>
+      <levelDependent_deprecated>false</levelDependent_deprecated>
+      <minLvl_deprecated>0</minLvl_deprecated>
+      <maxLvl_deprecated>0</maxLvl_deprecated>
+      <emphasized>false</emphasized>
+      <nameOverride>fanged - of iron</nameOverride>
+      <SoundId>0</SoundId>
+      <BeamId>0</BeamId>
+      <Order>14</Order>
+    </Rule>
+    <Rule>
+      <type>SHOW</type>
+      <conditions>
+        <Condition i:type="SubTypeCondition">
+          <type>
+            <EquipmentType>IDOL_1x1_ETERRA</EquipmentType>
+            <EquipmentType>IDOL_1x1_LAGON</EquipmentType>
+            <EquipmentType>IDOL_2x1</EquipmentType>
+            <EquipmentType>IDOL_1x2</EquipmentType>
+            <EquipmentType>IDOL_3x1</EquipmentType>
+            <EquipmentType>IDOL_1x3</EquipmentType>
+            <EquipmentType>IDOL_4x1</EquipmentType>
+            <EquipmentType>IDOL_1x4</EquipmentType>
+            <EquipmentType>IDOL_2x2</EquipmentType>
+          </type>
+          <subTypes />
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>866</int>
+            <int>873</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>2</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+      </conditions>
+      <color>13</color>
+      <isEnabled>true</isEnabled>
+      <levelDependent_deprecated>false</levelDependent_deprecated>
+      <minLvl_deprecated>0</minLvl_deprecated>
+      <maxLvl_deprecated>0</maxLvl_deprecated>
+      <emphasized>false</emphasized>
+      <nameOverride>fanged - of atropos</nameOverride>
+      <SoundId>0</SoundId>
+      <BeamId>0</BeamId>
+      <Order>13</Order>
+    </Rule>
+    <Rule>
+      <type>SHOW</type>
+      <conditions>
+        <Condition i:type="SubTypeCondition">
+          <type>
+            <EquipmentType>IDOL_1x1_ETERRA</EquipmentType>
+            <EquipmentType>IDOL_1x1_LAGON</EquipmentType>
+            <EquipmentType>IDOL_2x1</EquipmentType>
+            <EquipmentType>IDOL_1x2</EquipmentType>
+            <EquipmentType>IDOL_3x1</EquipmentType>
+            <EquipmentType>IDOL_1x3</EquipmentType>
+            <EquipmentType>IDOL_4x1</EquipmentType>
+            <EquipmentType>IDOL_1x4</EquipmentType>
+            <EquipmentType>IDOL_2x2</EquipmentType>
+          </type>
+          <subTypes />
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>880</int>
+            <int>887</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>2</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+      </conditions>
+      <color>13</color>
+      <isEnabled>true</isEnabled>
+      <levelDependent_deprecated>false</levelDependent_deprecated>
+      <minLvl_deprecated>0</minLvl_deprecated>
+      <maxLvl_deprecated>0</maxLvl_deprecated>
+      <emphasized>false</emphasized>
+      <nameOverride>vanquisher - of salamander</nameOverride>
+      <SoundId>0</SoundId>
+      <BeamId>0</BeamId>
+      <Order>12</Order>
+    </Rule>
+    <Rule>
+      <type>SHOW</type>
+      <conditions>
+        <Condition i:type="SubTypeCondition">
+          <type>
+            <EquipmentType>IDOL_1x1_ETERRA</EquipmentType>
+            <EquipmentType>IDOL_1x1_LAGON</EquipmentType>
+            <EquipmentType>IDOL_2x1</EquipmentType>
+            <EquipmentType>IDOL_1x2</EquipmentType>
+            <EquipmentType>IDOL_3x1</EquipmentType>
+            <EquipmentType>IDOL_1x3</EquipmentType>
+            <EquipmentType>IDOL_4x1</EquipmentType>
+            <EquipmentType>IDOL_1x4</EquipmentType>
+            <EquipmentType>IDOL_2x2</EquipmentType>
+          </type>
+          <subTypes />
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>880</int>
+            <int>889</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>2</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+      </conditions>
+      <color>13</color>
+      <isEnabled>true</isEnabled>
+      <levelDependent_deprecated>false</levelDependent_deprecated>
+      <minLvl_deprecated>0</minLvl_deprecated>
+      <maxLvl_deprecated>0</maxLvl_deprecated>
+      <emphasized>false</emphasized>
+      <nameOverride>vanquisher - of the firstborn</nameOverride>
+      <SoundId>0</SoundId>
+      <BeamId>0</BeamId>
+      <Order>11</Order>
+    </Rule>
+    <Rule>
+      <type>SHOW</type>
+      <conditions>
+        <Condition i:type="SubTypeCondition">
+          <type>
+            <EquipmentType>IDOL_1x1_ETERRA</EquipmentType>
+            <EquipmentType>IDOL_1x1_LAGON</EquipmentType>
+            <EquipmentType>IDOL_2x1</EquipmentType>
+            <EquipmentType>IDOL_1x2</EquipmentType>
+            <EquipmentType>IDOL_3x1</EquipmentType>
+            <EquipmentType>IDOL_1x3</EquipmentType>
+            <EquipmentType>IDOL_4x1</EquipmentType>
+            <EquipmentType>IDOL_1x4</EquipmentType>
+            <EquipmentType>IDOL_2x2</EquipmentType>
+          </type>
+          <subTypes />
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>880</int>
+            <int>885</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>2</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+      </conditions>
+      <color>13</color>
+      <isEnabled>true</isEnabled>
+      <levelDependent_deprecated>false</levelDependent_deprecated>
+      <minLvl_deprecated>0</minLvl_deprecated>
+      <maxLvl_deprecated>0</maxLvl_deprecated>
+      <emphasized>false</emphasized>
+      <nameOverride>vanquisher - of refuge</nameOverride>
+      <SoundId>0</SoundId>
+      <BeamId>0</BeamId>
+      <Order>10</Order>
+    </Rule>
+    <Rule>
+      <type>SHOW</type>
+      <conditions>
+        <Condition i:type="SubTypeCondition">
+          <type>
+            <EquipmentType>IDOL_1x1_ETERRA</EquipmentType>
+            <EquipmentType>IDOL_1x1_LAGON</EquipmentType>
+            <EquipmentType>IDOL_2x1</EquipmentType>
+            <EquipmentType>IDOL_1x2</EquipmentType>
+            <EquipmentType>IDOL_3x1</EquipmentType>
+            <EquipmentType>IDOL_1x3</EquipmentType>
+            <EquipmentType>IDOL_4x1</EquipmentType>
+            <EquipmentType>IDOL_1x4</EquipmentType>
+            <EquipmentType>IDOL_2x2</EquipmentType>
+          </type>
+          <subTypes />
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>880</int>
+            <int>888</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>2</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+      </conditions>
+      <color>13</color>
+      <isEnabled>true</isEnabled>
+      <levelDependent_deprecated>false</levelDependent_deprecated>
+      <minLvl_deprecated>0</minLvl_deprecated>
+      <maxLvl_deprecated>0</maxLvl_deprecated>
+      <emphasized>false</emphasized>
+      <nameOverride>vanquisher - golden light</nameOverride>
+      <SoundId>0</SoundId>
+      <BeamId>0</BeamId>
+      <Order>9</Order>
+    </Rule>
+    <Rule>
+      <type>SHOW</type>
+      <conditions>
+        <Condition i:type="SubTypeCondition">
+          <type>
+            <EquipmentType>IDOL_1x1_ETERRA</EquipmentType>
+            <EquipmentType>IDOL_1x1_LAGON</EquipmentType>
+            <EquipmentType>IDOL_2x1</EquipmentType>
+            <EquipmentType>IDOL_1x2</EquipmentType>
+            <EquipmentType>IDOL_3x1</EquipmentType>
+            <EquipmentType>IDOL_1x3</EquipmentType>
+            <EquipmentType>IDOL_4x1</EquipmentType>
+            <EquipmentType>IDOL_1x4</EquipmentType>
+            <EquipmentType>IDOL_2x2</EquipmentType>
+          </type>
+          <subTypes />
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>862</int>
+            <int>868</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>2</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+      </conditions>
+      <color>13</color>
+      <isEnabled>true</isEnabled>
+      <levelDependent_deprecated>false</levelDependent_deprecated>
+      <minLvl_deprecated>0</minLvl_deprecated>
+      <maxLvl_deprecated>0</maxLvl_deprecated>
+      <emphasized>false</emphasized>
+      <nameOverride>swaddling - of phobia</nameOverride>
+      <SoundId>0</SoundId>
+      <BeamId>0</BeamId>
+      <Order>8</Order>
+    </Rule>
+    <Rule>
+      <type>SHOW</type>
+      <conditions>
+        <Condition i:type="SubTypeCondition">
+          <type>
+            <EquipmentType>IDOL_1x1_ETERRA</EquipmentType>
+            <EquipmentType>IDOL_1x1_LAGON</EquipmentType>
+            <EquipmentType>IDOL_2x1</EquipmentType>
+            <EquipmentType>IDOL_1x2</EquipmentType>
+            <EquipmentType>IDOL_3x1</EquipmentType>
+            <EquipmentType>IDOL_1x3</EquipmentType>
+            <EquipmentType>IDOL_4x1</EquipmentType>
+            <EquipmentType>IDOL_1x4</EquipmentType>
+            <EquipmentType>IDOL_2x2</EquipmentType>
+          </type>
+          <subTypes />
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>862</int>
+            <int>872</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>2</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+      </conditions>
+      <color>13</color>
+      <isEnabled>true</isEnabled>
+      <levelDependent_deprecated>false</levelDependent_deprecated>
+      <minLvl_deprecated>0</minLvl_deprecated>
+      <maxLvl_deprecated>0</maxLvl_deprecated>
+      <emphasized>false</emphasized>
+      <nameOverride>swaddling - of clotho</nameOverride>
+      <SoundId>0</SoundId>
+      <BeamId>0</BeamId>
+      <Order>7</Order>
+    </Rule>
+    <Rule>
+      <type>SHOW</type>
+      <conditions>
+        <Condition i:type="SubTypeCondition">
+          <type>
+            <EquipmentType>IDOL_1x1_ETERRA</EquipmentType>
+            <EquipmentType>IDOL_1x1_LAGON</EquipmentType>
+            <EquipmentType>IDOL_2x1</EquipmentType>
+            <EquipmentType>IDOL_1x2</EquipmentType>
+            <EquipmentType>IDOL_3x1</EquipmentType>
+            <EquipmentType>IDOL_1x3</EquipmentType>
+            <EquipmentType>IDOL_4x1</EquipmentType>
+            <EquipmentType>IDOL_1x4</EquipmentType>
+            <EquipmentType>IDOL_2x2</EquipmentType>
+          </type>
+          <subTypes />
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>884</int>
+            <int>320</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>2</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+      </conditions>
+      <color>13</color>
+      <isEnabled>true</isEnabled>
+      <levelDependent_deprecated>false</levelDependent_deprecated>
+      <minLvl_deprecated>0</minLvl_deprecated>
+      <maxLvl_deprecated>0</maxLvl_deprecated>
+      <emphasized>false</emphasized>
+      <nameOverride>illuminating - of storms</nameOverride>
+      <SoundId>0</SoundId>
+      <BeamId>0</BeamId>
+      <Order>6</Order>
+    </Rule>
+    <Rule>
+      <type>SHOW</type>
+      <conditions>
+        <Condition i:type="SubTypeCondition">
+          <type>
+            <EquipmentType>IDOL_1x1_ETERRA</EquipmentType>
+            <EquipmentType>IDOL_1x1_LAGON</EquipmentType>
+            <EquipmentType>IDOL_2x1</EquipmentType>
+            <EquipmentType>IDOL_1x2</EquipmentType>
+            <EquipmentType>IDOL_3x1</EquipmentType>
+            <EquipmentType>IDOL_1x3</EquipmentType>
+            <EquipmentType>IDOL_4x1</EquipmentType>
+            <EquipmentType>IDOL_1x4</EquipmentType>
+            <EquipmentType>IDOL_2x2</EquipmentType>
+          </type>
+          <subTypes />
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>278</int>
+            <int>326</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>2</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+      </conditions>
+      <color>13</color>
+      <isEnabled>true</isEnabled>
+      <levelDependent_deprecated>false</levelDependent_deprecated>
+      <minLvl_deprecated>0</minLvl_deprecated>
+      <maxLvl_deprecated>0</maxLvl_deprecated>
+      <emphasized>false</emphasized>
+      <nameOverride>chronophage - of despair</nameOverride>
+      <SoundId>0</SoundId>
+      <BeamId>0</BeamId>
+      <Order>5</Order>
+    </Rule>
+    <Rule>
+      <type>SHOW</type>
+      <conditions>
+        <Condition i:type="SubTypeCondition">
+          <type>
+            <EquipmentType>IDOL_1x1_ETERRA</EquipmentType>
+            <EquipmentType>IDOL_1x1_LAGON</EquipmentType>
+            <EquipmentType>IDOL_2x1</EquipmentType>
+            <EquipmentType>IDOL_1x2</EquipmentType>
+            <EquipmentType>IDOL_3x1</EquipmentType>
+            <EquipmentType>IDOL_1x3</EquipmentType>
+            <EquipmentType>IDOL_4x1</EquipmentType>
+            <EquipmentType>IDOL_1x4</EquipmentType>
+            <EquipmentType>IDOL_2x2</EquipmentType>
+          </type>
+          <subTypes />
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>882</int>
+            <int>321</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>2</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+      </conditions>
+      <color>13</color>
+      <isEnabled>true</isEnabled>
+      <levelDependent_deprecated>false</levelDependent_deprecated>
+      <minLvl_deprecated>0</minLvl_deprecated>
+      <maxLvl_deprecated>0</maxLvl_deprecated>
+      <emphasized>false</emphasized>
+      <nameOverride>biting - of ice</nameOverride>
+      <SoundId>0</SoundId>
+      <BeamId>0</BeamId>
+      <Order>4</Order>
+    </Rule>
+    <Rule>
+      <type>SHOW</type>
+      <conditions>
+        <Condition i:type="SubTypeCondition">
+          <type>
+            <EquipmentType>IDOL_1x1_ETERRA</EquipmentType>
+            <EquipmentType>IDOL_1x1_LAGON</EquipmentType>
+            <EquipmentType>IDOL_2x1</EquipmentType>
+            <EquipmentType>IDOL_1x2</EquipmentType>
+            <EquipmentType>IDOL_3x1</EquipmentType>
+            <EquipmentType>IDOL_1x3</EquipmentType>
+            <EquipmentType>IDOL_4x1</EquipmentType>
+            <EquipmentType>IDOL_1x4</EquipmentType>
+            <EquipmentType>IDOL_2x2</EquipmentType>
+          </type>
+          <subTypes />
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>135</int>
+            <int>197</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>2</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+      </conditions>
+      <color>13</color>
+      <isEnabled>true</isEnabled>
+      <levelDependent_deprecated>false</levelDependent_deprecated>
+      <minLvl_deprecated>0</minLvl_deprecated>
+      <maxLvl_deprecated>0</maxLvl_deprecated>
+      <emphasized>false</emphasized>
+      <nameOverride>cleric - of bulwark</nameOverride>
+      <SoundId>0</SoundId>
+      <BeamId>0</BeamId>
+      <Order>3</Order>
+    </Rule>
+    <Rule>
+      <type>SHOW</type>
+      <conditions>
+        <Condition i:type="SubTypeCondition">
+          <type>
+            <EquipmentType>IDOL_1x1_ETERRA</EquipmentType>
+            <EquipmentType>IDOL_1x1_LAGON</EquipmentType>
+            <EquipmentType>IDOL_2x1</EquipmentType>
+            <EquipmentType>IDOL_1x2</EquipmentType>
+            <EquipmentType>IDOL_3x1</EquipmentType>
+            <EquipmentType>IDOL_1x3</EquipmentType>
+            <EquipmentType>IDOL_4x1</EquipmentType>
+            <EquipmentType>IDOL_1x4</EquipmentType>
+            <EquipmentType>IDOL_2x2</EquipmentType>
+          </type>
+          <subTypes />
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>880</int>
+            <int>117</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>2</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+      </conditions>
+      <color>13</color>
+      <isEnabled>true</isEnabled>
+      <levelDependent_deprecated>false</levelDependent_deprecated>
+      <minLvl_deprecated>0</minLvl_deprecated>
+      <maxLvl_deprecated>0</maxLvl_deprecated>
+      <emphasized>false</emphasized>
+      <nameOverride>vanquisher - of insulation</nameOverride>
+      <SoundId>0</SoundId>
+      <BeamId>0</BeamId>
+      <Order>2</Order>
+    </Rule>
+    <Rule>
+      <type>SHOW</type>
+      <conditions>
+        <Condition i:type="SubTypeCondition">
+          <type>
+            <EquipmentType>IDOL_1x1_ETERRA</EquipmentType>
+            <EquipmentType>IDOL_1x1_LAGON</EquipmentType>
+            <EquipmentType>IDOL_2x1</EquipmentType>
+            <EquipmentType>IDOL_1x2</EquipmentType>
+            <EquipmentType>IDOL_3x1</EquipmentType>
+            <EquipmentType>IDOL_1x3</EquipmentType>
+            <EquipmentType>IDOL_4x1</EquipmentType>
+            <EquipmentType>IDOL_1x4</EquipmentType>
+            <EquipmentType>IDOL_2x2</EquipmentType>
+          </type>
+          <subTypes />
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>880</int>
+            <int>112</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>2</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+      </conditions>
+      <color>13</color>
+      <isEnabled>true</isEnabled>
+      <levelDependent_deprecated>false</levelDependent_deprecated>
+      <minLvl_deprecated>0</minLvl_deprecated>
+      <maxLvl_deprecated>0</maxLvl_deprecated>
+      <emphasized>false</emphasized>
+      <nameOverride>vanquisher - of frost</nameOverride>
+      <SoundId>0</SoundId>
+      <BeamId>0</BeamId>
+      <Order>1</Order>
+    </Rule>
+    <Rule>
+      <type>SHOW</type>
+      <conditions>
+        <Condition i:type="SubTypeCondition">
+          <type>
+            <EquipmentType>IDOL_1x1_ETERRA</EquipmentType>
+            <EquipmentType>IDOL_1x1_LAGON</EquipmentType>
+            <EquipmentType>IDOL_2x1</EquipmentType>
+            <EquipmentType>IDOL_1x2</EquipmentType>
+            <EquipmentType>IDOL_3x1</EquipmentType>
+            <EquipmentType>IDOL_1x3</EquipmentType>
+            <EquipmentType>IDOL_4x1</EquipmentType>
+            <EquipmentType>IDOL_1x4</EquipmentType>
+            <EquipmentType>IDOL_2x2</EquipmentType>
+          </type>
+          <subTypes />
+        </Condition>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>880</int>
+            <int>187</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>2</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+      </conditions>
+      <color>13</color>
+      <isEnabled>true</isEnabled>
+      <levelDependent_deprecated>false</levelDependent_deprecated>
+      <minLvl_deprecated>0</minLvl_deprecated>
+      <maxLvl_deprecated>0</maxLvl_deprecated>
+      <emphasized>false</emphasized>
+      <nameOverride>vanquisher - of sparks</nameOverride>
+      <SoundId>0</SoundId>
+      <BeamId>0</BeamId>
+      <Order>0</Order>
+    </Rule>
+  </rules>
+</ItemFilter>
